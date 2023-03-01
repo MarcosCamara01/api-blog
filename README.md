@@ -1,5 +1,5 @@
 # 🛠 Installation & Set Up
-Install dependecies
+Install dependencies
 ```bash
 npm install
 ```
